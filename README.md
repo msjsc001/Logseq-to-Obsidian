@@ -125,4 +125,32 @@
 -   **幂等性**: 脚本被设计为可以安全地重复运行。如果您第一次运行后发现有遗漏（例如，新加入了一些文件），您可以直接再次运行，它不会破坏已经转换好的内容。
 
 ---
-这个工具凝聚了我们多次的迭代和您宝贵的反馈，现在它已经是一个非常强大的迁移助手。
+# Obsidian 的大纲双链接笔记方式使用教程！
+## OB大纲
+<img width="1159" height="2091" alt="image" src="https://github.com/user-attachments/assets/9f842d46-b5ad-40d8-aed0-ab387e83aacb" />
+
+## OB块引用与块嵌入
+<img width="1440" height="2695" alt="image" src="https://github.com/user-attachments/assets/660089f2-e0e8-443a-9309-253cdc47499e" />
+
+## OB属性与查询
+<img width="968" height="4100" alt="image" src="https://github.com/user-attachments/assets/5c04418b-04f6-4db5-847e-fbb6ac750586" />
+
+## OB Dataview插件
+<img width="1134" height="2338" alt="image" src="https://github.com/user-attachments/assets/37486091-39a2-4d60-ad1e-6041697360e4" />
+
+## OB Bases数据库
+<img width="1168" height="931" alt="image" src="https://github.com/user-attachments/assets/38caa078-8ef0-4b8c-aff1-294fa89c9028" />
+
+## OB代码块
+<img width="1134" height="2572" alt="image" src="https://github.com/user-attachments/assets/10a3e629-84d3-403c-9a22-bcaa4f69f7a5" />
+
+## OB表格
+<img width="1123" height="2088" alt="image" src="https://github.com/user-attachments/assets/bec61ea7-2f47-4266-b392-68d72dd8120a" />
+
+
+
+
+
+
+
+
