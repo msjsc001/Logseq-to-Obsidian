@@ -97,7 +97,7 @@
 
 ### 执行步骤
 
-1.  **下载脚本**: 将 `L块-O页面块_migrate.py` 文件放置到您希望运行它的地方（例如，您的 Logseq 笔记库根目录，或任何方便的位置）。
+1.  **下载脚本**: 将 `Logseq to Obsidian.py` 文件放置到您希望运行它的地方（例如，您的 Logseq 笔记库根目录，或任何方便的位置）。
 2.  **打开终端**:
     -   在 Windows 上，可以是 `Command Prompt (cmd)` 或 `PowerShell`。
     -   在 macOS 或 Linux 上，是 `Terminal`。
@@ -108,13 +108,13 @@
 4.  **执行命令**:
     -   **推荐方式 (迁移指定目录)**:
         ```bash
-        python L块-O页面块_migrate.py "D:\path\to\your\notes"
+        python "Logseq to Obsidian.py" "D:\path\to\your\notes"
         ```
         > **注意**: 请将 `"D:\path\to\your\notes"` 替换成您真实的 Logseq 笔记库路径。
 
     -   **便捷方式 (迁移当前目录)**: 如果您已经 `cd` 到了笔记库的根目录，可以直接运行：
         ```bash
-        python L块-O页面块_migrate.py
+        python "Logseq to Obsidian.py"
         ```
 
 ## 需要注意什么？
